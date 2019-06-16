@@ -11,7 +11,7 @@
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
 | Fatma | :smile: | I need help | | |
-| Berihu|:sad:| I need help too| | |
+| Berihu|:smile:| I need help too| | |
 
 ___
 ___
